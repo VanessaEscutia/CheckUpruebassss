@@ -1,2 +1,9 @@
 flask
 pytest
+flask-cors
+flask-migrate
+flask-sqlalchemy
+flask-jwt-extended
+pymysql
+cryptography
+click
