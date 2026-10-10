@@ -8,3 +8,10 @@ pymysql
 cryptography
 click
 python-dotenv
+qrcode
+pillow
+PyJWT
+Werkzeug
+Jinja2
+itsdangerous
+blinker
