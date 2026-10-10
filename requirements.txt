@@ -7,3 +7,4 @@ flask-jwt-extended
 pymysql
 cryptography
 click
+python-dotenv
